@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/briangrande/Documents/WII balance Board/project-name/build/CMakeFiles/bootloader"
+		},
+		{
+			"file" : "/Users/briangrande/Documents/WII balance Board/project-name/build/CMakeFiles/bootloader.rule"
+		},
+		{
+			"file" : "/Users/briangrande/Documents/WII balance Board/project-name/build/CMakeFiles/bootloader-complete.rule"
+		},
+		{
+			"file" : "/Users/briangrande/Documents/WII balance Board/project-name/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+		},
+		{
+			"file" : "/Users/briangrande/Documents/WII balance Board/project-name/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+		},
+		{
+			"file" : "/Users/briangrande/Documents/WII balance Board/project-name/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+		},
+		{
+			"file" : "/Users/briangrande/Documents/WII balance Board/project-name/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+		},
+		{
+			"file" : "/Users/briangrande/Documents/WII balance Board/project-name/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+		},
+		{
+			"file" : "/Users/briangrande/Documents/WII balance Board/project-name/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+		},
+		{
+			"file" : "/Users/briangrande/Documents/WII balance Board/project-name/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bootloader"
+		],
+		"name" : "bootloader"
+	}
+}

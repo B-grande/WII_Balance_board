@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/Users/briangrande/Documents/WII balance Board/project-name/build/CMakeFiles/bootloader
+/Users/briangrande/Documents/WII balance Board/project-name/build/CMakeFiles/bootloader.rule
+/Users/briangrande/Documents/WII balance Board/project-name/build/CMakeFiles/bootloader-complete.rule
+/Users/briangrande/Documents/WII balance Board/project-name/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/Users/briangrande/Documents/WII balance Board/project-name/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/Users/briangrande/Documents/WII balance Board/project-name/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/Users/briangrande/Documents/WII balance Board/project-name/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/Users/briangrande/Documents/WII balance Board/project-name/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/Users/briangrande/Documents/WII balance Board/project-name/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/Users/briangrande/Documents/WII balance Board/project-name/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
